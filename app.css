@@ -1,0 +1,35 @@
+body{
+    background-color: #8d99ae;
+}
+section img{
+    width: 30%;
+    margin: calc(10%/6);
+}
+section img:hover{
+    box-shadow: 0em 0em 2em 4em rgba(225,0,0,0.2);
+    width:25%
+    
+}
+nav h1{
+    max-width: none;
+    height: 1em;
+    padding: 1em;
+    color: wheat;
+    background-color: #2b2d42;
+    margin: 0 calc(10%/6);
+    text-align: center;
+    font-family: Moon Dance, cursive;
+    font-size: 2em;
+    
+}
+nav h2{
+    max-width: none;
+    height: 1.5em;
+    color: wheat;
+    background-color: #2b2d42;
+    margin: 0 calc(10%/6);
+    text-align: center;
+    font-family: Moon Dance, cursive;
+    font-size: 2em;
+    
+}
